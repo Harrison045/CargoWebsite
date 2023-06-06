@@ -685,25 +685,28 @@ main {
   translate: 3px 0;
 }
 
-.quote{
+.quote {
   background-color: #febb75;
   height: 20rem;
   margin-top: 8rem;
 }
-#quote{
+#quote {
   text-align: center;
   padding-top: 8rem;
 }
 
-.quote2{
+.quote2 {
   background-color: #eca387;
   height: 20rem;
   margin-top: 8rem;
 }
-#quote2{
+#quote2 {
   text-align: center;
   padding-top: 8rem;
 }
+
+
+
 /* Media code */
 
 @media screen and (min-width: 53em) {
